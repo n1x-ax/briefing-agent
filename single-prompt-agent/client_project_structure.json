@@ -1,0 +1,36 @@
+{
+"clientProfile": {
+  "template": "The client is Alex, CEO, from USA San Francisco; company: Online. About the company: A tech company specializing in innovative solutions. The company operates in Technology."
+},
+"mainInformation": {
+  "timeCreated": "12/31/1899, 12:00:00 AM",
+  "projectType": "short-term",
+  "projectTypeDescription": "Short-term production project",
+  "description": "A promotional video for our new product launch",
+  "language": "English",
+  "company": "Example Company",
+  "companyDescription": "A tech company specializing in innovative solutions",
+  "briefCreationTime": "12/31/1899, 12:00:00 AM"
+},
+"projectInformation": {
+  "productName": "Project Alpha",
+  "briefType": "Video Production",
+  "task": ["Create video script", "Shoot video", "Edit video"],
+  "contentType": "Video",
+  "goal": "Increase brand awareness and drive sales",
+  "format": "MP4",
+  "deliverables": ["Teaser", "Full video"],
+  "preferences": "Engaging visuals and dynamic transitions",
+  "creative": true
+},
+"budgetTimeline": {
+  "budget": "5000 USD",
+  "timeline": "4 weeks"
+},
+"summary": {
+  "projectSummary": "Comprehensive project brief",
+  "budget": "5000 USD",
+  "startDate": "Start Date",
+  "finishDate": "Finish Date"
+}
+}

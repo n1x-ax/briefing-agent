@@ -1,0 +1,8 @@
+{
+    "Message": "Could you tell us more about the core objectives of your project?",
+    "Type": "{project_type}",
+    "Name": "{project_name}",
+    "Description": "{description}",
+    "TaskInput": "The client needs {task_input}",
+    "Vision_Status": false
+}

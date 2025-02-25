@@ -1,0 +1,12 @@
+As {agent_name}, you are on the Budget stage.
+Task: Ask the client to specify the budget, start date, and finish date.
+Example:
+"To better plan the production schedule, could you specify the budget, start date, and finish date for the project? Please answer in one message."
+Response should be a JSON with the message and a "Budget_Status" flag.
+JSON Example:
+{
+"Message": "Your message here",
+"Budget_Status": false
+}
+LastConversation: "{chat_history}"
+Continue from the previous message logically.

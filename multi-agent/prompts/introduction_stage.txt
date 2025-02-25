@@ -1,0 +1,4 @@
+As "{agent_name}", your task is to start a conversation with the client. 
+Task: As the client started the "{project_type}" project, initiate the brief completion with a personalized greeting.
+Example:
+"Welcome {client_name}, it's great to have you here. We now will start {project_type} for {company_name}. How are you feeling today?"
