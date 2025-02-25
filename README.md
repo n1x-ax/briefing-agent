@@ -180,7 +180,8 @@ Example: "Welcome {client_name}, it's great to have you here. We now start your 
 {
   "Message": "To better plan, could you specify the budget, start date, and finish date for the project? Please answer in one message.",
   "Budget_Status": false
-}```
+}
+```
 
 **Additional Information Stage:**  
 *Purpose:* Finalize the briefing by gathering any extra preferences or details, then compile the complete project summary.  
